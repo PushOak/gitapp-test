@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/gitapp-test/static/css/main.31d6cfe0.css",
+    "main.js": "/gitapp-test/static/js/main.196f9b12.js",
+    "index.html": "/gitapp-test/index.html",
+    "main.196f9b12.js.map": "/gitapp-test/static/js/main.196f9b12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.196f9b12.js"
+  ]
+}
